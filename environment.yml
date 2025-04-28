@@ -65,4 +65,4 @@ dependencies:
       - pytz==2025.2
       - rdkit==2024.9.6
       - tzdata==2025.2
-
+prefix: /home/mercedesdg/miniconda3/envs/yeast-repo-env
